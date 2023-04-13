@@ -40,15 +40,19 @@ button {
   padding: 20px;
   font-size: 20px;
   color: white;
-  background-color: #ccef81aa;
+  background: #CF3CCF;
+background: linear-gradient(to bottom right, #CF3CCF 40%, #6D6DF7 71%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
 }
 
 section h2 {
   font-size: 70px;
   color: pink;
   background: #cd25ae;
-  background: radial-gradient(circle farthest-corner at center center, #FF0000 0%, #FFFF00 25%, #05C1FF 50%, #FFFF00 75%, #FF0000 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  background: #CF3CCF;
+background: linear-gradient(to bottom right, #CF3CCF 40%, #6D6DF7 71%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
 }
 
